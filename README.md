@@ -1,4 +1,4 @@
-# SQL-Homework
+# Studying Employee Databaseusing SQL
 Study of employees of the corporation from the 1980s and 1990s. There are six datafiles to review. Before analyzing the data using SQL, I have taken 2 steps of Data modeling & Data engineering and then analyzed the data using SQL. 
 
 Data Modeling: It includes inspecting the CSVs and sketch out an ERD (Entity Relationship Diagram i.e shapshot of data structures) of the tables.
